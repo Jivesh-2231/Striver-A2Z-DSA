@@ -1,6 +1,7 @@
 # Striver A2Z Data Structures and Algorithms Sheet Progress Tracker
 
 ## Basics 
+# EASY ---
 [] Reverse a Number
 [] Palindrome
 [] Check if the number is armstrong
